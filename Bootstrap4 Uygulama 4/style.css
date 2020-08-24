@@ -1,0 +1,10 @@
+/* Scroll Spy Alanı */
+    body{
+      margin:10px;
+      background-color: #f1f1f1;
+    }
+    .scroll-spy-alani {
+        position: relative;
+        height: 500px;
+        overflow: auto;
+    }
